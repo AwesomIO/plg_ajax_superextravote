@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ @copyright   Copyright (C) 2009 - 2018. WEB-Studio "VERTOLET". All rights reserved.
+  ~ @license     GNU General Public License version 2 or later; see LICENSE.txt
+  -->
+
+<extension type="plugin" version="3.8" group="ajax" method="upgrade">
+	<name>PLG_AJAX_SUPEREXTRAVOTE</name>
+	<creationDate>13.02.2018</creationDate>
+	<author>Artem (kern.USR) Vasilev</author>
+	<authorEmail>kern.usr@gmail.com</authorEmail>
+	<authorUrl>https://awesomio.org</authorUrl>
+	<copyright>All rights received</copyright>
+	<license>GNU General Public License version 3 or later; see LICENSE.txt</license>
+	<version>1.0</version>
+	<description>PLG_AJAX_SUPEREXTRAVOTE_XML_DESCRIPTION</description>
+
+	<!-- Plugin files -->
+	<files>
+		<filename plugin="superextravote">superextravote.php</filename>
+	</files>
+</extension>
